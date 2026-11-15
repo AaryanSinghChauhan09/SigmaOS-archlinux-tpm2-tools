@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-tpm2-tools component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-tpm2-tools"
+name = "sigmaos_archlinux_tpm2_tools"
 path = "src/lib.rs"
